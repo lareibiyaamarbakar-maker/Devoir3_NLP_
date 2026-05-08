@@ -1,0 +1,558 @@
+ [
+    {
+        "text": "votre compte CIH a ete suspendu  clickez ici pour le reactive",
+        "label":"phishing",
+        "type":"SMS",
+        "attack_type":"bank scam",
+        "risk_level":"high",
+        "language":"francais",
+        "url":"https://www.cihbank-login.com"
+    },
+    {
+        "text": "Attijari_wafa bank : veuillez confirmer vos informations via ce lien securise",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"bank scam",
+        "risk_level":"high",
+        "language":"francais",
+        "url":"https://www.Attijariwafa-bank.ma"
+    },
+    {
+        "text": "your PayPal account needs verification.please login to continue.",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"account verification",
+        "risk_level":"medium",
+        "language":"english",
+        "url":"https://www.amazon-login.com"
+    },
+    {
+        "text": "clickez ici pour voir votre facture Maroc telecom",
+        "label":"phishing",
+        "type":"url",
+        "attack_type":"fake billing",
+        "risk_level":"high",
+        "language":"english",
+        "url":"https://www.maroctelecom.com"
+    },
+    {
+        "text": "تم تعليق حسابك البنكي، يرجى تسجيل الدخول الآن",
+        "label":"phishing",
+        "type":"SMS",
+        "attack_type":"bank scam",
+        "risk_level":"high",
+        "language":"arabic",
+        "url":"https://www.cihbank-login.com"
+    },
+    {
+        "text": "congratulation,you have won a prize. Enter your details to claim",
+        "label":"phishing",
+        "type":"social media",
+        "attack_type":"lottery scam",
+        "risk_level":"high",
+        "language":"english",
+        "url":"www.facebook-prize.com"
+    },
+    {
+        "text": "veuillez verifiez votre compte banque populaire",
+        "label":"phishing",
+        "type":"SMS",
+        "attack_type":"security alert",
+        "risk_level":"high",
+        "language":"francais",
+        "url":"https://www.banque-populaire.com"
+    },
+    {
+        "text": "votre compte dans bank populaire sera supprime si vous ne confirmez pas maintenant ",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"security alert",
+        "risk_level":"high",
+        "language":"francais",
+        "url":"https://www.banque-populaire.com"
+    },
+    {
+        "text": "veuillez payez votre abonnemnt inwi via ce lien",
+        "label":"phishing",
+        "type":"url",
+        "attack_type":"credential harvesting",
+        "risk_level":"medium",
+        "language":"francais",
+        "url":"https://www.inwi-pay.com"
+    },
+    {
+        "text": "Bank populaire : une activite suspecte a ete detecte sur votre compte .veuillez verifier vos informations immediatement ",
+        "label":"phishing",
+        "type":"SMS",
+        "attack_type":"bank scam",
+        "risk_level":"high",
+        "language":"francais",
+        "url":"https://www.banque-populaire.com"
+    },
+    {
+        "text": "Attijari_wafa bank : votre acces est temporairement limite.Merci de confirmer vos identifiants.",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"credential harvesting",
+        "risk_level":"medium",
+        "language":"francais",
+        "url":"https://www.Attijariwafa-bank.ma"
+    },
+    {
+        "text": "votre facture Maroc telecom necessite une mise a jour.consultez-la via le lien ci-dessous",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"fake billing",
+        "risk_level":"medium",
+        "language":"francais",
+        "url":"https://www.maroctelecom.com"
+    },
+    {
+        "text": "your account has been flagged for unusual activity.please confirm your details",
+        "label":"phishing",
+        "type":"SMS",
+        "attack_type":"account verification",
+        "risk_level":"medium",
+        "language":"english",
+        "url":"http://secure-account-verification-alert.com"
+    },
+    {
+        "text": "Shein: your recent order is on hold due to payment issues,resolve now",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"delivery scam",
+        "risk_level":"medium",
+        "language":"english",
+        "url":"https://www.shein-payment.com"
+    },
+    {
+        "text": "تم تعليق حسابكم البنكي بسبب نشاط غير معتاد. يرجى التحقق من المعلومات",
+        "label":"phishing",
+        "type":"SMS",
+        "attack_type":"bank scam",
+        "risk_level":"high",
+        "language":"arabic",
+        "url":"http://CIH-secure-account.com"
+    },
+    {
+        "text": "Instagram security notice : suspicious login attempt detected.",
+        "label":"phishing",
+        "type":"social media",
+        "attack_type":"social media hack",
+        "risk_level":"medium",
+        "language":"english",
+        "url":"http://instagram-security-alert.com"
+    },
+    {
+        "text": "votre colis est en attente de validation.Merci de confirmer votre adresse",
+        "label":"phishing",
+        "type":"SMS",
+        "attack_type":"delivery scam",
+        "risk_level":"medium",
+        "language":"francais",
+        "url":"http://jumia-delivery-confirm.net"
+    },
+    {
+        "text": "une mise a jour de securite est requise pour votre compte Barid Cash ,veuillez agir rapidement.",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"security alert",
+        "risk_level":"high",
+        "language":"francais",
+        "url":"https://www.baridbank-login.com"
+    },
+    {
+        "text": " تم اكتشاف محاولة تسجيل دخول غير مصرح بها على حسابك في بنك بريد",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"security alert",
+        "risk_level":"medium",
+        "language":"arabic",
+        "url":"https://www.baridbank-login.com"
+    },
+    {
+        "text": " انستغرام : تم إرسال إشعار أمني بخصوص حسابكم ",
+        "label":"phishing",
+        "type":"social media",
+        "attack_type":"security alert",
+        "risk_level":"medium",
+        "language":"arabic",
+        "url":"http://instagram-security-alert.com"
+    },
+    {
+        "text": "يرجى تأكيد بياناتك لتجنب إيقاف الخدمة",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"account verification",
+        "risk_level":"medium",
+        "language":"arabic",
+        "url":"http://orange-security-account.com"
+    },
+    {
+        "text": "تم تعليق الوصول إلى حسابك  فيسبوك",
+        "label":"phishing",
+        "type":"social media",
+        "attack_type":"social media hack",
+        "risk_level":"medium",
+        "language":"arabic",
+        "url":"http://Facebook-security-alert.com"
+    },
+    {
+        "text": "تم تعليق حسابكم مؤقتاً بسبب نشاط مشبوه",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"account suspension",
+        "risk_level":"medium",
+        "language":"arabic",
+        "url":"https://www.amazon-login.com"
+    },
+    {
+        "text": "يرجى تحديث بيانات حسابكم لتجنب إيقاف الخدمة",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"bank scam",
+        "risk_level":"high",
+        "language":"arabic",
+        "url":"https://www.baridbank-alert.com"
+    },
+    {
+        "text": "يرجى الضغط على الرابط لتأكيد حسابكم",
+        "label":"phishing",
+        "type":"SMS",
+        "attack_type":"credential harvesting",
+        "risk_level":"high",
+        "language":"arabic",
+        "url":"https://www.cihbank-login.com"
+    },
+    {
+        "text": "حسابكم معرض للإغلاق إذا لم يتم التحقق",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"bank scam",
+        "risk_level":"high",
+        "language":"arabic",
+        "url":"https://www.banque-populaire.com"
+    },
+    {
+        "text": "تم إيقاف بطاقتكم البنكية مؤقت",
+        "label":"phishing",
+        "type":"SMS",
+        "attack_type":"bank scam",
+        "risk_level":"high",
+        "language":"arabic",
+        "url":"https://www.cihbank-alert.com"
+    },
+    {
+        "text": "يرجى متابعة حالة طلبكم عبر المنصة ",
+        "label":"phishing",
+        "type":"email",
+        "attack_type":"fake billing",
+        "risk_level":"medium",
+        "language":"arabic",
+        "url":"https://www.shein-payment.com"
+    },
+    {
+        "text": "يرجى تسجيل الدخول فوراً لتجنب إيقاف الخدمة",
+        "label":"phishing",
+        "type":"SMS",
+        "attack_type":"urgent scam",
+        "risk_level":"medium",
+        "language":"arabic",
+        "url":"http://orange-security-account.com"
+    },
+    {
+        "text": "تم رصد نشاط غير عادي على حسابكم . يرجى التحقق فوراً",
+        "label":"phishing",
+        "type":"social media",
+        "attack_type":"account verification",
+        "risk_level":"medium",
+        "language":"arabic",
+        "url":"http://Facebook-security-alert.com"
+    },
+    {
+        "text": "Bonjour, veuillez trouver ci-joint la facture d'abonnement orange",
+        "label":"non_phishing",
+        "type":"email",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://www.orange.ma/orangemoney/Au-quotidien/Payer-une-facture"
+    },
+    {
+        "text": "Bonjour, veuillez trouver ci-joint le rapport mensuel pour validation",
+        "label":"non_phishing",
+        "type":"email",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://drive.google.com"
+    },
+    {
+        "text": "Votre releve bancaire est disponoble via votre espace client securise ",
+        "label":"non_phishing",
+        "type":"SMS",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://www.cih.ma"
+    },
+    {
+        "text": "CIH bank: transaction de 1000 MAD effectuee avec succes",
+        "label":"non_phishing",
+        "type":"SMS",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://www.cih.ma"
+    },
+    {
+        "text": "votre facture est disponible sur votre espace client",
+        "label":"non_phishing",
+        "type":"SMS",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://www.maroctelecom.com"
+    },
+    {
+        "text": "votre commande a ete expediee.suivi disponible sur votre compte",
+        "label":"non_phishing",
+        "type":"email",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://www.amazon.com"
+    },
+    {
+        "text": "تم تحديث تطبيق بنك المغرب الرقمي بنجاح. يمكنكم تسجيل الدخول للاطلاع على خدماتكم",
+        "label":"non_phishing",
+        "type":"email",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"arabic",
+        "url":"https://www.bkam.ma"
+    },
+    {
+        "text": "تم تنفيذ عملية تحويل بنجاح في حسابكم البنكي. شكراً لاستخدامكم خدماتن",
+        "label":"non_phishing",
+        "type":"SMS",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"arabic",
+        "url":"https://www.cihbank.ma"
+    },
+    {
+        "text": "votre facture Maroc telecom est disponible sur votre espace client",
+        "label":"non_phishing",
+        "type":"SMS",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://www.iam.ma"
+    },
+    {
+        "text": "veuillez payez votre abonnemnt inwi via ce lien",
+        "label":"non_phishing",
+        "type":"SMS",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://www.inwi.ma"
+    },
+    {
+        "text": "Orange Maroc : votre facture du ce mois est maintenant diponible sur le site ",
+        "label":"non_phishing",
+        "type":"SMS",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://orange.ma"
+    },
+    {
+        "text": "Al-Barid Bank: une activite suspecte a ete detecte sur votre compte .veuillez verifier vos informations immediatement ",
+        "label":"non_phishing",
+        "type":"SMS",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://www.albaridbank.ma/fr"
+    },
+    {
+        "text": "تم تأكيد عملية الشراء الخاصة بكم من موقع Shein، ويمكنكم تتبع الطلب الآن",
+        "label":"non_phishing",
+        "type":"email",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"arabic",
+        "url":"https://www.shein.com"
+    },
+    {
+        "text": "Your Alibaba order has been shipped successfully.you can track your package in your account",
+        "label":"non_phishing",
+        "type":"email",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"english",
+        "url":"https://www.alibaba.com"
+    },
+    {
+        "text": "تم تحديث شروط استخدام خدمات الحساب البنكي. يرجى زيارة موقعنا الرسمي للاطلاع عليها",
+        "label":"non_phishing",
+        "type":"SMS",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"arabic",
+        "url":"https://www.attijariwafabank.com/fr"
+    },
+    {
+        "text": "Bank populaire: votre releve de compte mensuel est disponible dans votre espace client securise ",
+        "label":"non_phishing",
+        "type":"email",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://www.groupebcp.com/fr/Pages/home.aspx"
+    },
+    {
+        "text": "Inwi: veulleuz payer votre abonnemnt wifi en ligne  ",
+        "label":"non_phishing",
+        "type":"SMS",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://inwi.ma"
+    },
+    {
+        "text": "Maroc telecom:activer votre wifi adsl directement en ligne en effectuant le paiement ",
+        "label":"non_phishing",
+        "type":"email",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://iam.ma"
+    },
+    {
+        "text": "Amazon: your recent order is on hold due to payment issues,resolve now",
+        "label":"non_phishing",
+        "type":"email",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"english",
+        "url":"https://www.amazon.com"
+    },
+    {
+        "text": "Shein: payer votre commande via ce lien ",
+        "label":"non_phishing",
+        "type":"email",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"francais",
+        "url":"https://fr.shein.com/risk/challenge?captcha_type=909&redirection=https%3A%2F%2Ffr.shein.com%2Fsale%2FAll-Sale-sc-0051884505.html%3Fici%3Dfr_tab03navbar03%26src_module%3Dtopcat%26src_identifier%3Dfc%253DSale%2560sc%253DSale%2560tc%253D0%2560oc%253D0%2560ps%253Dtab03navbar03%2560jc%253DitemPicking_0051884505%26adp%3D%26src_tab_page_id%3Dpage_article1778093984392%26categoryJump%3D786644_%21_0&risk-id=E4813988968274013184"
+    },
+    {
+        "text": "تم تحديث سلة التسوق الخاصة بك بإضافة منتجات جديدة ",
+        "label":"non_phishing",
+        "type":"ecommerce cart",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"arabic",
+        "url":"https://www.amazon.com"
+    },
+    {
+        "text": "تمت عملية الدفع البنكي الخاصة بك بنجاح",
+        "label":"non_phishing",
+        "type":"bank notification",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"arabic",
+        "url":"https://www.albaridbank.ma/fr"
+    },
+    {
+        "text": "يرجى دفع اشتراك الواي فاي الخاص بك عبر حسابك",
+        "label":"non_phishing",
+        "type":"subscription",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"arabic",
+        "url":"https://orange.ma"
+    },
+    {
+        "text": "تم تجديد اشتراك الواي فاي الخاص بك بنجاح.",
+        "label":"non_phishing",
+        "type":"subscription",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"arabic",
+        "url":"https://inwi.ma"
+    },
+    {
+        "text": "please check your account for the latest bank statement",
+        "label":"non_phishing",
+        "type":"bank notification",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"english",
+        "url":"https://www.Attijariwafa-bank.ma"
+    },
+    {
+        "text": "your bank transaction has been succesfully completed",
+        "label":"non_phishing",
+        "type":"bank notification",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"english",
+        "url":"https://www.albaridbank.ma/fr"
+    },
+    {
+        "text": "Your order in the cart is ready for checkout",
+        "label":"non_phishing",
+        "type":"ecommerce cart",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"english",
+        "url":"https://www.alibaba.com"
+    },
+    {
+        "text": "your shopping cart has been updated with new items ",
+        "label":"non_phishing",
+        "type":"ecommerce cart",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"english",
+        "url":"https://www.amazon.com"
+    },
+    {
+        "text": "Please proceed to pay your wifi subscription in your account",
+        "label":"non_phishing",
+        "type":"subscription",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"english",
+        "url":"https://inwi.ma"
+    },
+    {
+        "text": "your wifi subscription has been successfully renewed",
+        "label":"non_phishing",
+        "type":"subscription",
+        "attack_type":"none",
+        "risk_level":"low",
+        "language":"english",
+        "url":"https://iam.ma"
+    }
+    
+    
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+]
